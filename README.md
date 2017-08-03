@@ -1,5 +1,5 @@
 # Hey-Hey
-Just another repository
+Dog program
 
 # Abilities
 Bark,
